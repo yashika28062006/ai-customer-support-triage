@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "category": "billing",
+    "priority": "medium",
+    "team": "support"
+  },
+  {
+    "id": 2,
+    "category": "technical",
+    "priority": "medium",
+    "team": "support"
+  }
+]
